@@ -56,7 +56,7 @@ npm start -- --url https://www.trustpilot.com/review/ouraring.com
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/trustpilot-scraper.git
+git clone https://github.com/mythic3011/trustpilot-scraper.git
 cd trustpilot-scraper
 ```
 
@@ -419,7 +419,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/trustpilot-scraper.git
+git clone https://github.com/mythic3011/trustpilot-scraper.git
 cd trustpilot-scraper
 
 # Install dependencies
@@ -471,9 +471,9 @@ The authors assume **no liability** for misuse or any consequences arising from 
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/trustpilot-scraper/issues)
+- **Issues**: [GitHub Issues](https://github.com/mythic3011/trustpilot-scraper/issues)
 - **Documentation**: See [USAGE_EXAMPLES.md](USAGE_EXAMPLES.md) for more examples
-- **Specs**: See `.kiro/specs/trustpilot-scraper/` for design documents
+- **Repository**: https://github.com/mythic3011/trustpilot-scraper
 
 ---
 
